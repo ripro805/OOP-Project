@@ -81,8 +81,8 @@ def menu():
             print("Invalid choice. Please try again.")
 
 
-s1 = Student("101", "Alice", "CSE")
-s2 = Student("102", "Bob", "EEE", True)
-s3 = Student("103", "Charlie", "BBA")
+s1 = Student("101", "Rizvi", "CSE")
+s2 = Student("102", "Sakib", "EEE", True)
+s3 = Student("103", "Nokib", "BBA")
 
 menu()
